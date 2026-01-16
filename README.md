@@ -1,5 +1,5 @@
 👋 Hi, I'm Dok.
-Experienced full-stack developer with 4+ years of experience and strong expertise in both backend and frontend development. I design and build servers, websites, and scalable web applications. 🔊
+Experienced full-stack developer with 4+ years of experience and strong expertise in both backend and frontend development. I design and build, websites, and scalable web applications. 🔊
 
 💻 I develop professional, interactive, and scalable websites for businesses and projects of any size:
 business card websites, landing pages, online stores, wikis, serial websites, blogs, portfolios, corporate, and service websites.
